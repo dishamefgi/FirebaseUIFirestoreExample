@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">Medical Representative</string>
+    <string name="add_new_doctor">Add New Doctor</string>
+    <string name="view_doctor">Add New Doctor</string>
+
+    <string-array name="array_speciality">
+        <item>Addiction medicine</item>
+        <item>Anaesthesia</item>
+        <item>Dermatology</item>
+        <item>Emergency medicine</item>
+        <item>General practice</item>
+        <item>Intensive care medicine</item>
+        <item>Medical administration</item>
+        <item>Obstetrics and gynaecology</item>
+        <item>Ophthalmology</item>
+        <item>Paediatrics and child health</item>
+        <item>Physician</item>
+        <item>Public health medicine</item>
+        <item>Radiation oncology</item>
+        <item>Radiology</item>
+        <item>Rehabilitation medicine</item>
+        <item>Sexual health medicine</item>
+        <item>Sport and exercise medicine</item>
+        <item>Surgery</item>
+    </string-array>
+
+    <string-array name="india_states">
+        <item>Andaman and Nicobar Islands</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chandigarh</item>
+        <item>Chhattisgarh</item>
+        <item>Dadra and Nagar Haveli</item>
+        <item>Daman and Diu</item>
+        <item>Delhi</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jammu and Kashmir</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Lakshadweep</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Orissa</item>
+        <item>Pondicherry</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttaranchal</item>
+        <item>Uttar Pradesh</item>
+        <item>West Bengal</item>
+    </string-array>
+
+    <string name="userNameemailId">Mobile number/Email ID</string>
+    <string name="password">********</string>
+    <string name="txtSignin">SIGN IN</string>
+    <string name="forgetPassword">Forgot Password?</string>
+    <string name="Student">Student</string>
+    <string name="registration_message">Registration</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="Email_address">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="Mobile_Number">Mobile number</string>
+    <string name="btn_register">Registration</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="Profile">View Profile</string>
+    <string name="AddDoctor">Add Doctor</string>
+    <string name="Renew">Renew Pass</string>
+    <string name="discountOffer">Discount Offer</string>
+    <string name="feedback">Give Feedback</string>
+    <string name="userName">User Name</string>
+    <string name="WelcomeUser">Welcome Username!</string>
+    <string name="SelectOption">Select an option to get started:</string>
+    <string name="Today">Today</string>
+    <string name="Tommorow">Tommorow</string>
+    <string name="oneMonth">1 month</string>
+    <string name="twoMonth">2 month</string>
+    <string name="threeMonth">3 month</string>
+    <string name="NoteLocal">Local route bus pass is valid upto 70km from your hometown to education point.
+    This pass is valid for local bus only.it will not valid in express bus.\nHappy journey....!</string>
+    <string name="NoteExpress">Express route bus pass is valid upto 140km from your hometown to Destination point.
+    This pass is valid for express bus or local bus.i.\nHappy journey....!</string>
+    <string name="str_DCR_Entry">DCR Entry</string>
+    <string-array name="pass_type">
+        <item>Student</item>
+        <item>Passenger</item>
+    </string-array>
+    <string-array name="State">
+        <item>Gujrat</item>
+        <item>Maharashtra</item>
+        <item>Rajasthan</item>
+    </string-array>
+
+    <string name="title_activity_fullscreen">Splash</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
