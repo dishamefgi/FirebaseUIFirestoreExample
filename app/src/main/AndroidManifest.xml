@@ -12,6 +12,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".ProductListViewActivity"></activity>
         <activity
             android:name=".FullscreenActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
@@ -27,9 +28,11 @@
         <activity android:name=".EmpProfileActivity" />
         <activity android:name=".MainActivity" />
         <activity android:name=".SecondCardView" />
-        <activity android:name=".NewDoctorActivity"
-            android:parentActivityName=".MainActivity"/>
-        <!--<activity
+        <activity
+            android:name=".NewDoctorActivity"
+            android:parentActivityName=".MainActivity" />
+        <!--
+<activity
             android:name=".SecondCardView"
             android:launchMode="singleTop"
             android:theme="@style/Theme.MaterialComponents.NoActionBar">
@@ -41,7 +44,8 @@
         </activity>
         <activity
             android:name=".NewDoctorActivity"
-            android:parentActivityName=".MainActivity" />-->
+            android:parentActivityName=".MainActivity" />
+        -->
         <activity android:name=".CardViewActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

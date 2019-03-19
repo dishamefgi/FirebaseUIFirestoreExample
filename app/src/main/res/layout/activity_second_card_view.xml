@@ -212,6 +212,7 @@
         </androidx.cardview.widget.CardView>-->
 
         <androidx.cardview.widget.CardView
+            android:id="@+id/productlistview"
             app:cardBackgroundColor="@color/white"
             android:layout_width="0dp"
             android:layout_height="0dp"
@@ -234,14 +235,14 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:src="@drawable/ic_feedback" />
+                    android:src="@drawable/ic_passdetail" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:fontFamily="@font/font_regular"
-                    android:text="@string/feedback"
+                    android:text="@string/txtProductList"
                     android:textColor="@color/appColor"
                     android:textSize="@dimen/Font_size" />
 

@@ -13,7 +13,7 @@ import android.widget.TextView;
 
 public class SecondCardView extends AppCompatActivity {
 
-    ImageView mAddDoctor,mDCRListView,mProfile;
+    ImageView mAddDoctor,mDCRListView,mProfile,mProductListView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -43,6 +43,14 @@ public class SecondCardView extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent=new Intent(getApplicationContext(),EmpProfileActivity.class);
+                startActivity(intent);
+            }
+        });
+        mProductListView=findViewById(R.id.productListCardView);
+        mProductListView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent=new Intent(getApplicationContext(),ProductListView.class);
                 startActivity(intent);
             }
         });

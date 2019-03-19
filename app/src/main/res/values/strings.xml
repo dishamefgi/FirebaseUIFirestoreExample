@@ -66,6 +66,7 @@
     <string name="userNameemailId">Mobile number/Email ID</string>
     <string name="password">********</string>
     <string name="txtSignin">SIGN IN</string>
+    <string name="txtProductList">List of Products</string>
     <string name="forgetPassword">Forgot Password?</string>
     <string name="Student">Student</string>
     <string name="registration_message">Registration</string>
